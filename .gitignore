@@ -1,0 +1,6 @@
+spark-warehouse/
+trained-models/
+project/target/
+target/
+.idea/
+*.iml
